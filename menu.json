@@ -1,0 +1,41 @@
+{
+  "restaurant": {
+    "name": "Demo Restaurant",
+    "slug": "demo-restaurant",
+    "contact_phone": "+917235973436",
+    "contact_email": "satyam1998.1998@gmail.com",
+    "whatsapp_number": "+917235973436",
+    "address": "Roadways Lalganj",
+    "logo_url": "http://127.0.0.1:8000/media/restaurants/logos/WhatsApp_Image_2026-07-24_at_1.09.56_AM.jpeg",
+    "cover_image_url": "http://127.0.0.1:8000/media/restaurants/covers/WhatsApp_Image_2026-07-19_at_2.19.09_AM.jpeg",
+    "business_hours": {},
+    "social_links": {}
+  },
+  "theme": {},
+  "categories": [
+    {
+      "id": 1,
+      "name": "Starter",
+      "display_order": 0,
+      "items": [
+        {
+          "id": 1,
+          "name": "Starter 1",
+          "description": "",
+          "price": "100.00",
+          "image_url": "http://127.0.0.1:8000/media/menu/items/WhatsApp_Image_2026-07-19_at_2.19.09_AM.jpeg",
+          "tags": [],
+          "is_available": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Main Course",
+      "display_order": 1,
+      "items": []
+    }
+  ],
+  "gallery": [],
+  "offers": []
+}
