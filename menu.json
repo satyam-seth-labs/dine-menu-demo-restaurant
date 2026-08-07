@@ -22,7 +22,7 @@
           "id": 1,
           "name": "Starter 1",
           "description": "",
-          "price": "100.00",
+          "price": "200.00",
           "image_url": "http://127.0.0.1:8000/media/menu/items/WhatsApp_Image_2026-07-19_at_2.19.09_AM.jpeg",
           "tags": [],
           "is_available": true
